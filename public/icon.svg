@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.999996"
+   height="63.999996"
+   viewBox="0 0 16.933332 16.933332"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient12">
+      <stop
+         style="stop-color:#ffaac5;stop-opacity:1;"
+         offset="0.10079052"
+         id="stop12" />
+      <stop
+         style="stop-color:#8dffb1;stop-opacity:1;"
+         offset="0.43675894"
+         id="stop14" />
+      <stop
+         style="stop-color:#9896ff;stop-opacity:1;"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient12"
+       id="linearGradient13"
+       x1="0.31094679"
+       y1="9.6318874"
+       x2="17.18815"
+       y2="6.3512917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0249983,0,0,1.0249983,2.2241272,-4.6888715)" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#272126;fill-opacity:1;stroke-width:0.264976;stroke-dasharray:none"
+       id="rect1"
+       width="16.933332"
+       height="16.933332"
+       x="0"
+       y="-6.9388939e-18" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.02253px;line-height:1;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:url(#linearGradient13);fill-opacity:1;stroke-width:0.501878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="9.1416578"
+       y="5.6829638"
+       id="text1"
+       transform="scale(0.95752094,1.0443636)"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.33916px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:url(#linearGradient13);fill-opacity:1;stroke-width:0.501878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="9.1416578"
+         y="5.6829638">&lt;\&gt;</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.23194px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:url(#linearGradient13);fill-opacity:1;stroke-width:0.501878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="9.1416578"
+         y="12.612551"
+         id="tspan19">ANSI</tspan></text>
+  </g>
+</svg>
