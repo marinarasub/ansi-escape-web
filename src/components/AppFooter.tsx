@@ -1,9 +1,8 @@
-import { Button, Layout, Space, Typography } from "antd";
+import { Button, Layout, Space } from "antd";
 import { SOURCE_URL } from "../constants/socialAddresses";
 import { GithubFilled } from "@ant-design/icons";
 
 const { Footer } = Layout;
-const { Text } = Typography;
 
 export default function AppFooter() {
   return (

@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Layout, Typography, Row, Col, Input, Card, Button, Space, message, Dropdown } from "antd";
 import { UploadOutlined, CopyOutlined, DownloadOutlined, DownOutlined, SnippetsOutlined } from "@ant-design/icons";
-const { Title, Paragraph, Text } = Typography;
+const { Title, Paragraph } = Typography;
 const { TextArea } = Input;
 import { ansiToHtml, ansiToPlain } from "../core/ansi";
 
