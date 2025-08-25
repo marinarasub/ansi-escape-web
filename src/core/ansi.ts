@@ -104,6 +104,12 @@ function parseAnsi(text: string): AnsiToken[] {
               setStyle(isFg ? { color } : { backgroundColor: color });
               j += 4;
             }
+          } else if (code == 39 || code == 49) {
+            // Reset foreground/background color
+            const isFg = code == 39;
+            setStyle(isFg ? { color: undefined } : { backgroundColor: undefined });
+          } else {
+            console.warn(`Unhandled ANSI code: ${code}`);
           }
           j++;
         }
